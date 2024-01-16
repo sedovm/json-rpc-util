@@ -1,3 +1,9 @@
+**Ubuntu 22.04**
+```
+sudo apt install ruby-full
+sudo gem install net-http-digest_auth
+```
+
 json-rpc-util
 =============
 
